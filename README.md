@@ -1,10 +1,10 @@
 # Atividade-Prática-de-Linux-e-AWS--IFMS--COMPASS-UOL🎓📘
 
-# Objetivos da atividade prática:
+# 🚀 Objetivos da atividade prática:
 
-🔴 Este repositório tem o objetivo de documentar e instruir as etapas de criação das atividades propostas de Linux e AWS. Os objetivos primarios são a crianção de uma instância EC2 na AWS, o dowload e a configuração de NFS(Network File System) no Linux, a automatizão de um script para verificar os status do serviço apache e logo após enviar os resultados ao diretorio NFS de 5 em 5 minutos.
+Este repositório tem o objetivo de documentar e instruir as etapas de criação das atividades propostas de Linux e AWS. Os objetivos primarios são a crianção de uma instância EC2 na AWS, o dowload e a configuração de NFS(Network File System) no Linux, a automatizão de um script para verificar os status do serviço apache e logo após enviar os resultados ao diretorio NFS de 5 em 5 minutos.
 
-## Requisitos AWS:
+## ☁ Requisitos AWS:
 
 • **Gerar uma chave pública para acesso ao ambiente;**
 
@@ -15,7 +15,7 @@
 • **Liberar as portas de comunicação para acesso público:(22/TCP, 111/TCP E UDP, 2049/TCP/UDP, 80/TCP, 443/TCP)**
 
 
-## Requisitos Linux: 
+##💻 Requisitos Linux: 
 
 • **Configurar o NFS entregue;**
 
