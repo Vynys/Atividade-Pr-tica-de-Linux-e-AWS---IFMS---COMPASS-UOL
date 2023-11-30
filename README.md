@@ -15,7 +15,7 @@ Este repositório tem o objetivo de documentar e instruir as etapas de criação
 • **Liberar as portas de comunicação para acesso público:(22/TCP, 111/TCP E UDP, 2049/TCP/UDP, 80/TCP, 443/TCP)**
 
 
-##💻 Requisitos Linux: 
+## 💻 Requisitos Linux: 
 
 • **Configurar o NFS entregue;**
 
